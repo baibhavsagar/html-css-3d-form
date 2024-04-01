@@ -473,7 +473,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background:url("assets/bg-image");
+  background:url("../img/bg-image.jpg");
   background-size: cover;
   background-position: center;
   
